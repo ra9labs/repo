@@ -41,7 +41,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "Which devices are supported?",
+                    "title": "Supported devices",
                     "class": "DepictionHeaderView"
                 },
                 {
