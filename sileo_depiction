@@ -92,7 +92,7 @@
             "tabname": "Changes",
             "views": [
                 {
-                    "title": "Version 0.DEV-BETA,
+                    "title": "Version 0.2,
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
