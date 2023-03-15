@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#7887f7",
+    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#08bebe",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -29,7 +29,11 @@
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "markdown": "# What is LiNUZE?\n\nLiNUZE is a toolbox for iDevices that allows communcations in Normal, Recovery, and DFU modes. It currently allows entering and exiting recovery modes, but the features to be added along it's lifespan are:\n\n* Pwning the device from DFU mode.\n* Setting APNonce\n* OTA downgrading compatible devices (LeetDown)\n* Backing-up and Restoring backups\n* And even more!\nLiNUZE is designed to be updated frequently, so follow [LiNUZE on Twitter](https://twitter.com/LiNUZE_App) to get the latest updates!",
+                    "title": "What is LiNUZE?",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "markdown": "LiNUZE is a toolbox for iDevices that allows communcations in Normal, Recovery, and DFU modes. It currently allows entering and exiting recovery modes, but the features to be added along it's lifespan are:\n\n* Pwning the device from DFU mode.\n* Setting APNonce\n* OTA downgrading compatible devices (LeetDown)\n* Backing-up and Restoring backups\n* And even more!\nLiNUZE is designed to be updated frequently, so follow [LiNUZE on Twitter](https://twitter.com/LiNUZE_App) to get the latest updates!",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -37,7 +41,11 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown":"# Which devices are supported?\n\n\n   ### Client\n\nLiNUZE supports every iDevice libimobiledevice supports, which are all of them!\n\n\n   ### Host\n\nLiNUZE works on iPhones, iPads and iPod Touches from iOS 12.0 to iOS 15.x. Please note that in order to get it working on iOS 15, you need to jailbreak your device using palera1n rootful. Rootless jailbreaks won't work with LiNUZE.",
+                    "title": "Which devices are supported?",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "markdown":"### Client\n\nLiNUZE supports every iDevice libimobiledevice supports, which are all of them!\n\n\n   ### Host\n\nLiNUZE works on iPhones, iPads and iPod Touches from iOS 12.0 to iOS 15.x. Please note that in order to get it working on iOS 15, you need to jailbreak your device using palera1n rootful. Rootless jailbreaks won't work with LiNUZE.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
