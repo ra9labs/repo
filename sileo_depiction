@@ -1,6 +1,6 @@
 {
-    "minVersion": "0.4",
-    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#08BEBE",
+    "minVersion": "0.1",
+    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#08bebe",
     "tabs": [
         {
             "class": "DepictionStackView",
