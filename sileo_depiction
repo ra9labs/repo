@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "class": "DepictionTabView","headerImage": "https://repo-archive-cdn.dynastic.co/f8d974336e9f0d76ed9f964fa5cf1aca.png_1000.png","tintColor": "#7887f7",
+    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#7887f7",
     "tabs": [
         {
             "class": "DepictionStackView",
