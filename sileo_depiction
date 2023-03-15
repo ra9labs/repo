@@ -1,12 +1,12 @@
 {
-    "minVersion": "0.1",  
-    "class": "DepictionTabView","headerImage": "https://repo-archive-cdn.dynastic.co/f8d974336e9f0d76ed9f964fa5cf1aca.png_1000.png","tintColor": "#7887f7",
+    "minVersion": "0.4",
+    "class": "DepictionTabView","headerImage": "https://i.imgur.com/OOJzeI6.png","tintColor": "#08bebe",
     "tabs": [
         {
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [{
-                    "title": "Your notifications. At a glance.",
+                    "title": "Command iDevices, from iDevices.",
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
@@ -15,63 +15,21 @@
                     "itemSize": "{160, 346}",
                     "screenshots": [{
                             "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/9e51e5eb9bc5fecc9a62d381eacefd2a.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/9e51e5eb9bc5fecc9a62d381eacefd2a.png"
+                            "url": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/1.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/1.png"
                         },{
                             "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/d5564ab9575e7fbad490cfc37c6ccc6a.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/d5564ab9575e7fbad490cfc37c6ccc6a.png"
+                            "url": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/2.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/2.png"
                         },{
                             "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/37c139118ae37406c3c4ea506a097c2b.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/37c139118ae37406c3c4ea506a097c2b.png"
-                        },{
-                            "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/f76f1ab5ccfff765fa98b212347d7bd6.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/f76f1ab5ccfff765fa98b212347d7bd6.png"
-                        },{
-                            "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/7983272fde3fd7bf602a08a5fb1b58d3.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/7983272fde3fd7bf602a08a5fb1b58d3.png"
-                        },{
-                            "accessibilityText": "Screenshot",
-                            "url": "https://repo-archive-cdn.dynastic.co/f177e462b273d2d8f19059cb2d36eb06.png",
-                            "fullSizeURL": "https://repo-archive-cdn.dynastic.co/f177e462b273d2d8f19059cb2d36eb06.png"
+                            "url": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/3.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/ra9labs/repo/main/sileo_stuff/3.png"
                         }],
-                    "ipad": {
-                        "itemCornerRadius": 9,
-                        "itemSize": "{320, 693}",
-                        "screenshots": [{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/9e51e5eb9bc5fecc9a62d381eacefd2a.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/9e51e5eb9bc5fecc9a62d381eacefd2a.png"
-                            },{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/d5564ab9575e7fbad490cfc37c6ccc6a.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/d5564ab9575e7fbad490cfc37c6ccc6a.png"
-                            },{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/37c139118ae37406c3c4ea506a097c2b.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/37c139118ae37406c3c4ea506a097c2b.png"
-                            },{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/f76f1ab5ccfff765fa98b212347d7bd6.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/f76f1ab5ccfff765fa98b212347d7bd6.png"
-                            },{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/7983272fde3fd7bf602a08a5fb1b58d3.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/7983272fde3fd7bf602a08a5fb1b58d3.png"
-                            },{
-                                "accessibilityText": "Screenshot",
-                                "url": "https://repo-archive-cdn.dynastic.co/f177e462b273d2d8f19059cb2d36eb06.png_750.png",
-                                "fullSizeURL": "https://repo-archive-cdn.dynastic.co/f177e462b273d2d8f19059cb2d36eb06.png"
-                            }],
-                        "class": "DepictionScreenshotView"
-                    },
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "markdown": "*Supports iOS 11 to 14.*\n\nShortLook displays on your locked iPhone as you receive a notification using its beautiful full-screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. Its configurable UI and behaviours ensure that ShortLook works how you want it to work.\n\n### Bold, but not obtrusive.\n\nShortLook shows only when you receive a notification while your deviceâ€™s display is turned off, allowing you to quickly view incoming notifications from a distance. Itâ€™s full screen design makes your notifications pop, and all of itâ€™s animations are fully interruptible, making your Lock Screen immediately accessible when the device is raised or tapped.\n\n### Popular? No problem.\n\nShortLook was designed from the beginning to adapt seamlessly to different use cases, from a single email to the most annoying of group chats. It intelligently groups and marks notifications from the same app with a badge indicator, displaying the increase with a subtle bounce of the screen. When a notification from another app is received, it promptly switches to show the new notifications.\n\n### Choose your style.\n\nOn iPhone X, ShortLook shows your notifications on a pure black background to take advantage of the beautiful OLED display, but that's not for everyone. If you'd prefer, you can opt for a dark blurred background, best suited for older devices, to display your notifications on.",
+                    "markdown": "# What is LiNUZE?\n\nLiNUZE is a toolbox for iDevices that allows communcations in Normal, Recovery, and DFU modes. It currently allows entering and exiting recovery modes, but the features to be added along it's lifespan are:\n\n* Pwning the device from DFU mode.\n* Setting APNonce\n* OTA downgrading compatible devices (LeetDown)\n* Backing-up and Restoring backups\n* And even more!\nLiNUZE is designed to be updated frequently, so follow [LiNUZE on Twitter](https://twitter.com/LiNUZE_App) to get the latest updates!\n\n\n# Which devices are supported?\n\n\n   ### Client\n\nLiNUZE supports every iDevice libimobiledevice supports, which are all of them!\n\n\n   ### Host\n\nLiNUZE works on iPhones, iPads and iPod Touches from iOS 12.0 to iOS 15.x. Please note that in order to get it working on iOS 15, you need to jailbreak your device using palera1n rootful. Rootless jailbreaks won't work with LiNUZE.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -134,7 +92,7 @@
             "tabname": "Changes",
             "views": [
                 {
-                    "title": "Version 1.0.23",
+                    "title": "Version 0.DEV-BETA,
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
