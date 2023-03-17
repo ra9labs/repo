@@ -53,7 +53,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown":"### Credits\n\n[Libimobiledevice](https://libimobiledevice.org) for libimobiledevice\n[Serena](https://twitter.com/CoreSerena) and [Opa334](https://twitter.com/opa334dev) for general help with entitlements\n[Matty](https://twitter.com/moski_dev) for private testing and help.\n[MasterMike](https://twitter.com/MasterMike88) for private testing.\n [screenshots.pro](https://screenshots.pro) for screenshot templates.",
+                    "markdown":"### Credits\n\n[Libimobiledevice](https://libimobiledevice.org) for libimobiledevice\n   [Serena](https://twitter.com/CoreSerena) and [Opa334](https://twitter.com/opa334dev) for general help with entitlements\n    [Matty](https://twitter.com/moski_dev) for private testing and help.\n   [MasterMike](https://twitter.com/MasterMike88) for private testing.\n    [screenshots.pro](https://screenshots.pro) for screenshot templates.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
