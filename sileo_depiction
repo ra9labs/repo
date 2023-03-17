@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "class": "DepictionTabView","headerImage": "https://i.imgur.com/cwubtoj.jpg","tintColor": "#08bebe",
+    "class": "DepictionTabView","headerImage": "https://i.imgur.com/p3c2pdm.jpg","tintColor": "#08bebe",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -50,54 +50,17 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "title": "Latest Version",
-                    "class": "DepictionHeaderView"
-                },
-                {
-                    "title": "Version",
-                    "text": "1.0.23",
-                    "class": "DepictionTableTextView"
-                },
-                {
-                    "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },{
-                    "title": "ShortLook Website",
-                    "action": "https://www.dynastic.co/shortlook/?refsrc=repo",
-                    "class": "DepictionTableButtonView"
                 },
                 {
-                    "spacing": 12,
-                    "class": "DepictionSpacerView"
-                },{
-                    "title": "Developer",
-                    "text": "Dynastic",
-                    "class": "DepictionTableTextView"
+                    "markdown":"### Credits\n\n[Libimobiledevice](https://libimobiledevice.org) for libimobiledevice\n[Serena](https://twitter.com/CoreSerena) and [Opa334](https://twitter.com/opa334dev) for general help with entitlements\n[Matty](https://twitter.com/moski_dev) for private testing and help.\n[MasterMike](https://twitter.com/MasterMike88) for private testing.\n [screenshots.pro](https://screenshots.pro) for screenshot templates.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
-                    "title": "Contact Support",
-                    "action": "depiction-https://repo.dynastic.co/sileo-depiction/68292503631036416/support",
-                    "class": "DepictionTableButtonView"
-                },
-                {
-                    "spacing": 16,
-                    "class": "DepictionSpacerView"
-                },
-                {
-                    "URL": "https://assets.dynastic.co/brand/img/footer@2x.png",
-                    "width": 39,
-                    "height": 44,
-                    "alignment": 1,
-                    "cornerRadius": 0,
-                    "class": "DepictionImageView"
-                },
-                {
-                    "spacing": 20,
-                    "class": "DepictionSpacerView"
+                    "markdown":"### Like this app?\n\nYou can [support me over patreon](https://www.patreon.com/rA9stuff) for more like this!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         },
@@ -111,15 +74,6 @@
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
-                {
-                    "markdown": "Thanks for using ShortLook! We have some exciting news to share: ShortLook is now free. Enjoy!",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "spacing": 20,
-                    "class": "DepictionSpacerView"
-                }
             ]
         }
     ]
