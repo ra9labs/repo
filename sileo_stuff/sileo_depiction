@@ -6,7 +6,7 @@
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [{
-                    "title": "Command iDevices, from iDevices.",
+                    "title": "Manage iOS devices using jailbroken iOS devices.",
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
